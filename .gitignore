@@ -1,0 +1,5 @@
+# Ignorando a pasta de código compilado do Java
+/bin/
+
+# Ignorando a pasta de configurações locais do VS Code
+/.vscode/
